@@ -1,0 +1,11 @@
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\bin\Debug\Assignment24_Program.exe.config
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\bin\Debug\Assignment24_Program.exe
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\bin\Debug\Assignment24_Program.pdb
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\bin\Debug\ConAppAssignment24.dll
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\bin\Debug\ConAppAssignment24.pdb
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\obj\Debug\Assignment24_Program.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\obj\Debug\Assignment24_Program.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\obj\Debug\Assignment24_Program.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\obj\Debug\Assignment24_Program.csproj.CopyComplete
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\obj\Debug\Assignment24_Program.exe
+F:\Training Stuff\Dot netTraining\DAY-21\Assignment-24\Assignment24_Program\Assignment24_Program\obj\Debug\Assignment24_Program.pdb
